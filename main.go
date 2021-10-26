@@ -44,7 +44,7 @@ func hasDiferentChars(s string) bool {
 }
 
 func main() {
-	// fmt.Println(findSubstrings("abac"))
+	fmt.Println(findSubstrings("abac"))
 	// fmt.Println(findSubstrings("baba"))
 	// fmt.Println(findSubstrings("aa"))
 	// fmt.Println(findSubstrings(""))
